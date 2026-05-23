@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">alleartcursos</string>
+    <string name="strdiretos">Direitos reservados para alleartcursos.com.br</string>
+    <string name="strEquipe">Equipe</string>
+    <string name="strCursos">Cursos</string>
+    <string name="strVideos">Videos</string>
+    <string name="strMidia">Mídia</string>
+    <string name="strVoltar">Voltar</string>
+</resources>
