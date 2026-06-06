@@ -5,8 +5,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.alleartcursos.com.br.Equipe;
-
 public class MainActivity extends AppCompatActivity {
 
     Intent tela;
@@ -22,11 +20,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(tela);
     }
     public void clickCursos(View view){
-        tela = new Intent(getApplicationContext(), Equipe.class);
+        tela = new Intent(getApplicationContext(), Cursos.class);
         startActivity(tela);
     }
     public void clickMidia(View view){
-        tela = new Intent(getApplicationContext(), Equipe.class);
+        tela = new Intent(getApplicationContext(), Midia.class);
         startActivity(tela);
     }
 }

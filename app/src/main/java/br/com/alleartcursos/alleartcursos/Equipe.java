@@ -1,4 +1,4 @@
-package com.example.alleartcursos.com.br;
+package br.com.alleartcursos.alleartcursos;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
